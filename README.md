@@ -4,5 +4,5 @@ Ballerina day Colombo 2018 :dancer:
 
 Learn ballerina with examples https://ballerina.io/learn/by-example/<br/>
 Web https://ballerina.io/<br/>
-Download bllerina https://ballerina.io/downloads/
-
+Download bllerina https://ballerina.io/downloads/</br>
+Github https://github.com/ballerina-platform/ballerina-lang
